@@ -30,6 +30,9 @@
     "lobbysystem.settings.uimain.navigator": "§c§lNavigator§r §8| §f§lSettings",
     "lobbysystem.settings.uimain.language": "",
 
+    "lobbysystem.navigation.title": "§c§lNavigation§r",
+    "lobbysystem.lobby_gadgets.title": "§4Lobby §fGadgets",
+
     "lobbysystem.settings.uinavi.content": "",
 
     "lobbysystem.dsgvoui.title": "{PREFIX}§aData Protection",
