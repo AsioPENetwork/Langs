@@ -30,6 +30,10 @@
     "lobbysystem.settings.uimain.navigator": "§c§lNavigator§r §8| §f§lSettings",
     "lobbysystem.settings.uimain.language": "",
 
+    "global.broadcast.website": "&7Visit our Website at &dwww.applemc.de",
+    "global.broadcast.vote": "&7Please Vote for us at &6vote.applemc.de &7and recieve a &aReward",
+    "global.broadcast.discord": "{PREFIX}&7Join our Discord for &6Announcements &7and &eUpdates",
+
     "lobbysystem.navigation.title": "§c§lNavigation§r",
     "lobbysystem.lobby_gadgets.title": "§4Lobby §fGadgets",
 
