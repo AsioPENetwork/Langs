@@ -22,6 +22,8 @@
     "lobbysystem.navigator.offline": "{PREFIX}§7Server ist §cOffline",
     "lobbysystem.navigator.online": "{PREFIX}§7Server ist §aOnline§7!.",
 
+    "lobbysystem.welcome.line1": "§7Willkommen §e{PLAYER}",
+
     "lobbysystem.settings.uimain.title": "§d§lSettings§r §8| §b§lMain",
     "lobbysystem.settings.uimain.content": "§fManage your Player Account",
     "lobbysystem.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
