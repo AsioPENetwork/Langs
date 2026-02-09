@@ -8,6 +8,7 @@
     "languageapi.ui.title.select": "§eWähle eine Sprache aus",
     "languageapi.ui.text.select": "§eSelect your Language§7!",
     "languageapi.updated": "{PREFIX}§7Du hast deine Sprache auf §d{NEW}§7 aktualisiert§7!",
+    "languageapi.debug": "{PREFIX}§c§lDas ist eine DEBUG Nachricht!",
 
     "lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
     "lobbysystem.servergui.maintenance": "{PREFIX}§7The Selected Server is curently in §cMaintenance Mode",
